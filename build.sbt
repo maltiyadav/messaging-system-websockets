@@ -1,4 +1,4 @@
-name := """Clustered chat"""
+name := """Real time messaging system"""
 
 version := "1.0-SNAPSHOT"
 
